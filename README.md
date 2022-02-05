@@ -1,2 +1,3 @@
 # Salary_prediction
-This repo containing files of salary prediction
+
+[check the App here](https://salary-predictor-2022-02-05.herokuapp.com/) 
