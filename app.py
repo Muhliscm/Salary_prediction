@@ -24,7 +24,7 @@ rad = sidebar.radio("Navigation", ["Home", "Prediction", "Contribute to dataset"
 
 #Home
 if rad=="Home":
-    st.image("images/salary.jpg", width = 600)
+    st.image("salary.jpg", width = 600)
     if st.checkbox("show data"):  
         st.table(data)
 
